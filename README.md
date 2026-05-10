@@ -9,16 +9,16 @@ This is a description of 3D-printed handles creating.
 
 <img width="320" height="420" alt="image" src="https://github.com/user-attachments/assets/8df95ae7-a613-46e6-b517-ff73b4f78236" />
 
-
-
 ## **:hammer:Проектирование моделей в Rhino**
 ### 1. Поиск аналогов, выбор технологии производства
 
 Модель1.
-<img width="1016" height="496" alt="image" src="https://github.com/user-attachments/assets/4dc3eed8-d40b-48fc-bc1d-12d02d8c43a2" />
+
+<img width="506" height="250" alt="image" src="https://github.com/user-attachments/assets/4dc3eed8-d40b-48fc-bc1d-12d02d8c43a2" />
 
 Модель2.
-<img width="986" height="476" alt="image" src="https://github.com/user-attachments/assets/7a01de23-8e89-4560-93ff-ca83d239e077" />
+
+<img width="460" height="240" alt="image" src="https://github.com/user-attachments/assets/7a01de23-8e89-4560-93ff-ca83d239e077" />
 
 ### 2. Производство моделей
 
