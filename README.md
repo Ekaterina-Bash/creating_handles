@@ -12,11 +12,11 @@ This is a description of 3D-printed handles creating.
 ## 1. **:hammer:Проектирование моделей в Rhino**
 
 Модель1.
-Данная ручка крепится к ящику с поомщью винта и гайки.
+
 <img width="506" height="250" alt="image" src="https://github.com/user-attachments/assets/4dc3eed8-d40b-48fc-bc1d-12d02d8c43a2" />
 
 Модель2.
-Данная ручка крепится к ящику при помощи вкручивания винта в отверстие ручки, меньшее по диаметру, чем винт. Ручка рассчитана на винт М6х20, диаметр отверстия 5,7мм, а длина - 8мм (толщина фанеры - 12мм).
+Данная модель построена при помощи технологии SubD, которая позволяет создавать гладкие и детализированные поверхности из полигональной сетки, она используется для создания криволинейных форм.
 <img width="460" height="240" alt="image" src="https://github.com/user-attachments/assets/7a01de23-8e89-4560-93ff-ca83d239e077" />
 
 ## 2. Производство моделей
@@ -28,14 +28,13 @@ This is a description of 3D-printed handles creating.
    <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/4c9df26c-17dd-429c-b0b8-50b96510cf91" />
 
 ## 3. Установка ручек для ящика
+Данная ручка крепится к ящику с поомщью винта М6х20 и гайки.
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/515cb83c-ca9b-4d03-b1ca-dc3b73454ae9" />
-
+Данная ручка крепится к ящику при помощи вкручивания винта в отверстие ручки, меньшее по диаметру, чем винт. Ручка рассчитана на винт М6х20, диаметр отверстия 5,7мм, а длина - 8мм (толщина фанеры - 12мм).
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/62befa0f-9930-4a0f-b12f-1d79a61ecc0f" />
 
-
-
 ## **:key: Ошибки и исправления**
-Неудачным примером стала ручка с тонкими перемычками.
+Неудачным примером стала ручка с тонкими перемычками. Этот вариант был доработан в Модель2., более долговечную версию.
 
 <img width="260" height="360" alt="image" src="https://github.com/user-attachments/assets/70afb4e5-d59c-404a-972d-bff620b5f3d4" />
 
