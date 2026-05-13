@@ -13,10 +13,12 @@ This is a description of 3D-printed handles creating.
 
 Модель1.
 Данная модель отличается своей эргономичностью и простотой. Главное преимущество данной детали: при креплении не повреждается ни ручка, ни сама поверхность, а значит, ручку можно прикрепить повторно.
+
 <img width="506" height="250" alt="image" src="https://github.com/user-attachments/assets/4dc3eed8-d40b-48fc-bc1d-12d02d8c43a2" />
 
 Модель2.
 Данная модель построена при помощи технологии SubD, которая позволяет создавать гладкие и детализированные поверхности из полигональной сетки, она используется для создания криволинейных форм.
+
 <img width="460" height="240" alt="image" src="https://github.com/user-attachments/assets/7a01de23-8e89-4560-93ff-ca83d239e077" />
 
 ## 2. Производство моделей
@@ -29,8 +31,11 @@ This is a description of 3D-printed handles creating.
 
 ## 3. Установка ручек для ящика
 Данная ручка крепится к ящику с поомщью винта М6х20 и гайки.
+
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/515cb83c-ca9b-4d03-b1ca-dc3b73454ae9" />
+
 Данная ручка крепится к ящику при помощи вкручивания винта в отверстие ручки, меньшее по диаметру, чем винт. Ручка рассчитана на винт М6х20, диаметр отверстия 5,7мм, а длина - 8мм (толщина фанеры - 12мм).
+
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/62befa0f-9930-4a0f-b12f-1d79a61ecc0f" />
 
 ## **:key: Ошибки и исправления**
