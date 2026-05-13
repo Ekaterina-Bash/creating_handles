@@ -12,7 +12,7 @@ This is a description of 3D-printed handles creating.
 ## 1. **:hammer:Проектирование моделей в Rhino**
 
 Модель1.
-
+Данная модель отличается своей эргономичностью и простотой. Главное преимущество данной детали: при креплении не повреждается ни ручка, ни сама поверхность, а значит, ручку можно прикрепить повторно.
 <img width="506" height="250" alt="image" src="https://github.com/user-attachments/assets/4dc3eed8-d40b-48fc-bc1d-12d02d8c43a2" />
 
 Модель2.
